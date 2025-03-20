@@ -1,9 +1,9 @@
 # kleosr
 
 <div align="center">
-  <img src="https://i.ibb.co/tMy2cRkC/image-fx.png" alt="kleosr Logo" width="500" />
+  <img src="https://i.ibb.co/tMy2cRkC/image-fx.png" alt="kleosr Logo" width="200" />
   <p>
-    <em>Full-Stack Developer | Security Enthusiast | Python Expert | Web Craftsman</em>
+    <em>"The integrity of the upright guides them, but the unfaithful are destroyed by their duplicity." - Proverbs 11:3</em>
   </p>
   <p>
     <a href="https://github.com/kleosr"><img src="https://img.shields.io/github/followers/kleosr?label=Follow&style=social" alt="GitHub Followers"></a>
@@ -17,65 +17,80 @@
 ```ascii
     ╔════════════════════════════════════════════════════════════════════════════╗
     ║                                                                             ║
-    ║  🛡️  Full-Stack Developer | 🔒 Security Enthusiast | 🐍 Python Expert     ║
-    ║  🌐  Web Craftsman | 💻 Frontend Specialist | 🧠 ADHD-Friendly Coder     ║
-    ║  📖  Bible Lover | 🌟 Open Source Contributor | 🎮 Tech Enthusiast      ║
+    ║  ⚡  Full-Stack Architect | 🔒 Security Guardian | 🐍 Python Virtuoso     ║
+    ║  🌐  Web Artisan | 💻 Frontend Craftsman | 🧠 Neurodivergent Engineer    ║
+    ║  📖  Biblical Scholar | 🌟 Open Source Steward | 🎮 Digital Alchemist    ║
     ║                                                                             ║
     ╚════════════════════════════════════════════════════════════════════════════╝
 ```
+
+<img src="https://us1.discourse-cdn.com/flex020/uploads/cursor1/original/2X/a/a4f78589d63edd61a2843306f8e11bad9590f0ca.png" alt="Cursor Logo" width="50" />
 </div>
+
+## 🎯 Mission Statement
+
+> "The Lord is my light and my salvation—whom shall I fear? The Lord is the stronghold of my life—of whom shall I be afraid?" - Psalm 27:1
+
+Dedicated to fortifying digital systems through ethical security practices and principled code architecture. Our mission is to protect and serve through responsible technology stewardship.
 
 ## 🚀 Current Focus
 
-- 🔭 **Working On**: NAEGIA Obfuscator & Personal Website
-- 🌱 **Learning**: Advanced React Patterns & Web Security
-- 👯 **Collaborating**: Cursor Forum Projects
-- 🤔 **Seeking Help**: Web Performance Optimization
-- 💬 **Ask Me About**: Web Dev, Python, or Life Balance
+- 🔭 **Primary Project**: NAEGIA Obfuscator - Enterprise-Grade Code Protection
+- 🌱 **Advanced Studies**: 
+  - Secure React Architecture & Design Patterns
+  - Security Protocols & System Hardening
+  - Biblical Ethics in Software Development
+- 👯 **Community**: Cursor Forum Security Advisory & Mentorship
+- 🤔 **Research**: Secure Performance Optimization
+- 💬 **Expertise**: Secure Full-Stack Architecture, Python Security, System Protection
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Arsenal
 
 ```mermaid
 graph TD
-    A[Core Skills] --> B[Python]
-    A --> C[Web Dev]
+    A[Core Competencies] --> B[Python]
+    A --> C[Web Development]
     A --> D[Security]
-    B --> E[Automation]
-    B --> F[Data Science]
-    B --> G[For Fun]
-    C --> H[React]
-    C --> I[HTML/CSS]
-    C --> J[JavaScript]
-    D --> K[Security Tools]
-    D --> L[Code Protection]
+    A --> E[AI & ML]
+    B --> F[Secure Architecture]
+    B --> G[Data Protection]
+    B --> H[System Hardening]
+    C --> I[Secure React]
+    C --> J[TypeScript]
+    C --> K[HTML5/CSS3]
+    D --> L[Security Protocols]
+    D --> M[Code Protection]
+    E --> N[Ethical AI]
+    E --> O[Secure LLM]
+    E --> P[Protected ML]
 ```
 
-## 🌐 My Website
+## 🌐 Digital Presence
 
 <div align="center">
   <a href="https://kleosr.surge.sh">
-    <img src="https://img.shields.io/badge/Personal_Website-Live-green" alt="Personal Website" />
+    <img src="https://img.shields.io/badge/Portfolio-Live-green" alt="Portfolio" />
   </a>
 </div>
 
-## 📊 GitHub Stats
+## 📊 Development Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kleosr&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kleosr&show_icons=true&theme=dark" alt="Development Statistics" />
 </div>
 
-## 📫 Connect With Me
+## 📫 Network
 
 <div align="center">
   <a href="https://github.com/kleosr"><img src="https://img.shields.io/badge/GitHub-Profile-black" alt="GitHub"></a>
   <a href="https://forum.cursor.com/u/kleosr/summary"><img src="https://img.shields.io/badge/Cursor_Forum-Active-green" alt="Cursor Forum"></a>
 </div>
 
-## ⚡ Fun Facts
+## ⚡ Core Principles
 
-- 🎯 ADHD-friendly coding practices
-- 🛡️ White hat security enthusiast
-- 💻 Built with ❤️ and Python
-- 🌟 Making the world more secure, one commit at a time
-- 🎨 Love crafting beautiful web experiences
-- 📖 Bible verses inspire my code 
+- 🎯 Ethical Development Philosophy
+- 🛡️ Security-First Architecture
+- 💻 Clean Code Standards
+- 🌟 Excellence in Security
+- 🎨 Secure UI/UX Design
+- 📖 Biblical Ethics in Technology 
