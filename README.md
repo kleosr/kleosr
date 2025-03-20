@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-## 🎯 About Me
+<img src="https://us1.discourse-cdn.com/flex020/uploads/cursor1/original/2X/a/a4f78589d63edd61a2843306f8e11bad9590f0ca.png" alt="Cursor Logo" width="50" />
 
 ```ascii
     ╔════════════════════════════════════════════════════════════════════════════╗
