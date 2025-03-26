@@ -50,8 +50,12 @@ Dedicated to building secure and robust digital systems through ethical practice
 ## 📊 Development Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kleosr&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="kleosr's GitHub Stats" />&nbsp;<!-- Add non-breaking space for slight separation -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleosr&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
+  <table>
+    <tr>
+      <td><img height="180" src="https://github-readme-stats.vercel.app/api?username=kleosr&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="kleosr's GitHub Stats" /></td>
+      <td><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleosr&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" /></td>
+    </tr>
+  </table>
 </div>
 
 ## 📫 Connect with Me
