@@ -12,7 +12,7 @@
 
 <div align="center"><h2>Mission</h2></div>
 
-Forging resilient digital fortresses. Architecting secure, high-integrity systems. Expertise in threat mitigation and principled code construction.
+Building resilient and secure digital systems. Specializing in threat mitigation and principled code.
 
 <div align="center"><h2>🛠️ Technical Arsenal</h2></div>
 
@@ -36,10 +36,10 @@ Forging resilient digital fortresses. Architecting secure, high-integrity system
 *   Data Encryption & Code Obfuscation
 *   Threat Modeling & Protocol Analysis
 
-## 🚀 Strategic Focus
+<div align="center"><h2>🚀 Strategic Focus</h2></div>
 
-*   **Project Nexus**: NAEGIA Obfuscator - Code Integrity Enforcement
-*   **Advanced Studies**: Secure Architecture Patterns, System Exploitation & Defense
+*   **Project Nexus**: NAEGIA - Advanced Code Obfuscation
+*   **Advanced Studies**: Secure Architecture, System Exploitation & Defense
 *   **Research**: High-Performance Secure Computing
 
 <div align="center"><h2>📊 Development Metrics</h2></div>
@@ -60,10 +60,10 @@ Forging resilient digital fortresses. Architecting secure, high-integrity system
   <a href="https://kleosr.surge.sh"><img src="https://img.shields.io/badge/Website-Portfolio-black?style=flat-square" alt="Portfolio"></a>
 </div>
 
-## ⚡ Guiding Tenets
+<div align="center"><h2>⚡ Guiding Tenets</h2></div>
 
 *   Unyielding Ethical Foundation
 *   Security as Non-Negotiable
 *   Code Integrity Above All
-*   Pursuit of Absolute Security
-*   Principled Technological Application
+*   Relentless Pursuit of Security
+*   Principled Technology
