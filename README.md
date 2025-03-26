@@ -13,11 +13,11 @@
   </p>
 </div>
 
-## About Me
+<div align="center"><h2>About Me</h2></div>
 
 Dedicated to building secure and robust digital systems through ethical practices and principled software architecture. Focused on delivering high-quality solutions with a security-first mindset.
 
-## 🛠️ Technical Skills
+<div align="center"><h2>🛠️ Technical Skills</h2></div>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>&nbsp;
@@ -47,7 +47,7 @@ Dedicated to building secure and robust digital systems through ethical practice
 *   **Community**: Cursor Forum Security Advisory & Mentorship
 *   **Research**: Secure Performance Optimization
 
-## 📊 Development Metrics
+<div align="center"><h2>📊 Development Metrics</h2></div>
 
 <div align="center">
   <table>
@@ -58,7 +58,7 @@ Dedicated to building secure and robust digital systems through ethical practice
   </table>
 </div>
 
-## 📫 Connect with Me
+<div align="center"><h2>📫 Connect with Me</h2></div>
 
 <div align="center">
   <a href="https://github.com/kleosr"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github" alt="GitHub"></a>&nbsp;
