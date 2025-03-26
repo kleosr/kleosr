@@ -3,21 +3,18 @@
 <div align="center">
   <img src="https://i.ibb.co/tMy2cRkC/image-fx.png" alt="kleosr Logo" width="150" />
   <br/>
-  <strong>Full-Stack Architect | Security Specialist | Python & Web Developer</strong>
-  <br/>
-  <em>"The integrity of the upright guides them, but the unfaithful are destroyed by their duplicity." - Proverbs 11:3</em>
+  <strong>Architect of Secure Systems | Guardian of Digital Integrity</strong>
   <p>
     <a href="https://github.com/kleosr"><img src="https://img.shields.io/github/followers/kleosr?label=Follow&style=social" alt="GitHub Followers"></a>
-    <a href="https://forum.cursor.com/u/kleosr/summary"><img src="https://img.shields.io/badge/Cursor_Forum-Active-blue?style=flat-square" alt="Cursor Forum"></a>
-    <a href="https://kleosr.surge.sh"><img src="https://img.shields.io/badge/Portfolio-Live-green?style=flat-square" alt="Portfolio"></a>
+    <a href="https://kleosr.surge.sh"><img src="https://img.shields.io/badge/Portfolio-View-black?style=flat-square" alt="Portfolio"></a>
   </p>
 </div>
 
-<div align="center"><h2>About Me</h2></div>
+<div align="center"><h2>Mission</h2></div>
 
-Dedicated to building secure and robust digital systems through ethical practices and principled software architecture. Focused on delivering high-quality solutions with a security-first mindset.
+Forging resilient digital fortresses. Architecting secure, high-integrity systems. Expertise in threat mitigation and principled code construction.
 
-<div align="center"><h2>🛠️ Technical Skills</h2></div>
+<div align="center"><h2>🛠️ Technical Arsenal</h2></div>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>&nbsp;
@@ -30,22 +27,20 @@ Dedicated to building secure and robust digital systems through ethical practice
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>&nbsp;
-  <!-- Add more icons as needed -->
 </p>
 
 **Core Competencies:**
-*   Secure Full-Stack Architecture
-*   Python Security & System Hardening
-*   Web Application Security (React, Node.js)
-*   Data Protection & Code Obfuscation
-*   Security Protocols & Ethical AI/ML Practices
+*   Secure System Architecture & Hardening
+*   Advanced Python Security
+*   Web Application Defense (React, Node.js)
+*   Data Encryption & Code Obfuscation
+*   Threat Modeling & Protocol Analysis
 
-## 🚀 Current Focus
+## 🚀 Strategic Focus
 
-*   **Primary Project**: NAEGIA Obfuscator - Enterprise-Grade Code Protection
-*   **Advanced Studies**: Secure React Architecture, System Hardening, Biblical Ethics in Software Development
-*   **Community**: Cursor Forum Security Advisory & Mentorship
-*   **Research**: Secure Performance Optimization
+*   **Project Nexus**: NAEGIA Obfuscator - Code Integrity Enforcement
+*   **Advanced Studies**: Secure Architecture Patterns, System Exploitation & Defense
+*   **Research**: High-Performance Secure Computing
 
 <div align="center"><h2>📊 Development Metrics</h2></div>
 
@@ -58,18 +53,17 @@ Dedicated to building secure and robust digital systems through ethical practice
   </table>
 </div>
 
-<div align="center"><h2>📫 Connect with Me</h2></div>
+<div align="center"><h2>📫 Contact</h2></div>
 
 <div align="center">
   <a href="https://github.com/kleosr"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github" alt="GitHub"></a>&nbsp;
-  <a href="https://forum.cursor.com/u/kleosr/summary"><img src="https://img.shields.io/badge/Cursor_Forum-Profile-blue?style=flat-square" alt="Cursor Forum"></a>&nbsp;
-  <a href="https://kleosr.surge.sh"><img src="https://img.shields.io/badge/Website-Portfolio-green?style=flat-square" alt="Portfolio"></a>
+  <a href="https://kleosr.surge.sh"><img src="https://img.shields.io/badge/Website-Portfolio-black?style=flat-square" alt="Portfolio"></a>
 </div>
 
-## ⚡ Core Principles
+## ⚡ Guiding Tenets
 
-*   Ethical Development Philosophy
-*   Security-First Architecture
-*   Clean Code Standards
-*   Excellence in Security & Design
-*   Biblical Ethics in Technology
+*   Unyielding Ethical Foundation
+*   Security as Non-Negotiable
+*   Code Integrity Above All
+*   Pursuit of Absolute Security
+*   Principled Technological Application
