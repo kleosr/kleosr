@@ -1,7 +1,7 @@
 # kleosr
 
 <div align="center">
-  <img src="https://i.ibb.co/tMy2cRkC/image-fx.png" alt="kleosr Logo" width="150" />
+  <img src="https://i.ibb.co/tMy2cRkC/image-fx.png" alt="kleosr Logo" width="720" />
   <br/>
   <strong>Full-Stack Architect | Security Specialist | Python & Web Developer</strong>
   <br/>
@@ -53,8 +53,6 @@ Dedicated to building secure and robust digital systems through ethical practice
   <img src="https://github-readme-stats.vercel.app/api?username=kleosr&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="kleosr's GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleosr&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=kleosr&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
   <br/>
   <img src="https://ghchart.rshah.org/kleosr?theme=dark" alt="kleosr's Contribution Graph" />
 </div>
