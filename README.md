@@ -1,7 +1,7 @@
 # kleosr
 
 <div align="center">
-  <img src="https://i.ibb.co/tMy2cRkC/image-fx.png" alt="kleosr Logo" width="150" />
+  <img src="https://iili.io/3MkSZl4.jpg" alt="kleosr Logo" width="1500" />
   <br/>
   <strong>Architect of Secure Systems | Guardian of Digital Integrity</strong>
   <p>
