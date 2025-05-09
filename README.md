@@ -3,30 +3,29 @@
 <div align="center">
   <img src="https://iili.io/3MkSZl4.jpg" alt="kleosr Logo" width="1500" />
   <br/>
-  <strong>Architect of Secure Systems | Guardian of Digital Integrity</strong>
+  <strong>Autodidact in Technology & Security</strong>
   <p>
     <a href="https://github.com/kleosr"><img src="https://img.shields.io/github/followers/kleosr?label=Follow&style=social" alt="GitHub Followers"></a>
     <a href="https://kleosr.surge.sh"><img src="https://img.shields.io/badge/Portfolio-View-black?style=flat-square" alt="Portfolio"></a>
+    <a href="https://cursor.com" title="Cursor Ambassador"><img src="https://www.cursor.com/assets/images/logo.svg" alt="Cursor AI Logo" width="20" height="20" style="vertical-align:middle; margin-left: 5px;"/> Cursor Ambassador</a>
+  </p>
+  <p align="center">
+    I'm an autodidact navigating the world of technology with the unique perspectives that come with being on the autistic spectrum and having ADHD.
   </p>
 </div>
 
 <div align="center"><h2>Mission</h2></div>
 
-Building resilient and secure digital systems. Specializing in threat mitigation and principled code.
+I'm passionate about understanding and building secure digital tools and systems. My approach is hands-on, driven by a desire to learn how to protect against threats and create reliable code.
 
 <div align="center"><h2>🛠️ Technical Arsenal</h2></div>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>&nbsp;
 </p>
 
 **Core Competencies:**
@@ -38,9 +37,9 @@ Building resilient and secure digital systems. Specializing in threat mitigation
 
 <div align="center"><h2>🚀 Strategic Focus</h2></div>
 
-*   **Project Nexus**: NAEGIA - Advanced Code Obfuscation
-*   **Advanced Studies**: Secure Architecture, System Exploitation & Defense
-*   **Research**: High-Performance Secure Computing
+*   Currently exploring advanced code obfuscation with my project, NAEGIA.
+*   I'm always learning more about how to design secure systems, as well as the methods behind system exploitation and defense.
+*   I also have a keen interest in the area of secure high-performance computing.
 
 <div align="center"><h2>📊 Development Metrics</h2></div>
 
