@@ -1,3 +1,5 @@
+<div align="center">
+
 # kleosr
 
 <img src="https://iili.io/3MkSZl4.jpg" alt="kleosr Logo" width="1500" />
@@ -7,6 +9,8 @@
 [![GitHub Followers](https://img.shields.io/github/followers/kleosr?label=Follow&style=social)](https://github.com/kleosr)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-black?style=flat-square)](https://kleosr.surge.sh)
 [![Cursor Ambassador](https://img.shields.io/badge/Cursor-Ambassador-black?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCAyMCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEwIDIwQzE1LjUyMjggMjAgMjAgMTUuNTIyOCAyMCAxMEMyMCA0LjQ3NzE1IDE1LjUyMjggMCAxMCAwQzQuNDc3MTUgMCAwIDQuNDc3MTUgMCAxMEMwIDE1LjUyMjggNC40NzcxNSAyMCAxMCAyMFoiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo=)](https://cursor.com)
+
+</div>
 
 I'm passionate about building secure digital systems and understanding cybersecurity from both offensive and defensive perspectives. My approach is hands-on, driven by curiosity and a commitment to ethical technology.
 
