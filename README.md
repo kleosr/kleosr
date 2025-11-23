@@ -1,6 +1,10 @@
-# Hi, I'm kleosr 👋
+# Hey, I'm Kleosr 👋
 
-As a **Cursor Ambassador**, I'm passionate about building with AI-first tools and shaping the future of software development. I approach my work with a security-conscious mindset, focused on creating robust and ethical technology.
+Cursor Ambassador · Building the future of software with AI-native tools.  
 
-### 📫 Let's Connect!
-I'm always open to learning and collaboration. Feel free to reach out.
+I’m deeply passionate about creating secure, thoughtful, and truly helpful technology — the kind that earns trust and actually makes developers’ lives better.
+
+Security isn’t an afterthought for me; it’s baked into everything I ship.
+
+### 📫 Let’s connect
+Always happy to chat code, AI, security, or whatever’s on your mind. Drop me a message — I’d love to hear from you.
