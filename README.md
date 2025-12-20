@@ -1,10 +1,23 @@
-# Hey, I'm Kleosr 👋
+## Hey, I'm Kleosr 👋
 
-Cursor Ambassador · Building the future of software with AI-native tools.  
+Full stack & AI engineer · Cursor Ambassador.  
 
-I’m deeply passionate about creating secure, thoughtful, and truly helpful technology — the kind that earns trust and actually makes developers’ lives better.
+Security, performance, and clean systems thinking drive everything shipped here — from low-level Linux tuning to AI‑native developer tooling.  
 
-Security isn’t an afterthought for me; it’s baked into everything I ship.
+I design silent systems where human creativity directs artificial intelligence, not the other way around.  
+Security is part of the design, not an afterthought.  
 
-### 📫 Let’s connect
-Always happy to chat code, AI, security, or whatever’s on your mind. Drop me a message — I’d love to hear from you.
+## What this repo is
+
+- Code and configs that power the minimal, terminal‑inspired site at https://kleosr.surge.sh  
+- Static‑first portfolio surface with explicit service tiers, infra overview, and a small engineering archive  
+
+## What you can expect
+
+- Opinionated defaults for AI‑native development, with security and maintainability treated as core constraints  
+- Real‑world artifacts.
+
+## Work with me
+
+If you need a system built or upgraded, open an issue or reach out directly and include: scope, constraints, and any hard deadlines.  
+Clear constraints mean faster, safer software with less rework.
