@@ -21,3 +21,4 @@ Security is part of the design, not an afterthought.
 
 If you need a system built or upgraded, open an issue or reach out directly and include: scope, constraints, and any hard deadlines.  
 Clear constraints mean faster, safer software with less rework.
+vsce-publisher:kleosr
