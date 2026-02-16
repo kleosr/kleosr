@@ -9,8 +9,8 @@ Security is part of the design, not an afterthought.
 
 ## What this repo is
 
-- Code and configs that power the minimal, terminal‑inspired site at https://kleosr.surge.sh  
-- Static‑first portfolio surface with explicit service tiers, infra overview, and a small engineering archive  
+- https://kleosr.surge.sh  
+- Static‑first small engineering archive  
 
 ## What you can expect
 
@@ -21,4 +21,3 @@ Security is part of the design, not an afterthought.
 
 If you need a system built or upgraded, open an issue or reach out directly and include: scope, constraints, and any hard deadlines.  
 Clear constraints mean faster, safer software with less rework.
-vsce-publisher:kleosr
