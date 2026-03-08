@@ -1,23 +1,14 @@
-## Hey, I'm Kleosr 👋
+## Hey, I’m Kleosr 👋
 
-Full stack & AI engineer · Cursor Ambassador.  
+Full-stack and AI engineer. Cursor Ambassador.
 
-Security, performance, and clean systems thinking drive everything shipped here — from low-level Linux tuning to AI‑native developer tooling.  
+## About this repo
 
-I design silent systems where human creativity directs artificial intelligence, not the other way around.  
-Security is part of the design, not an afterthought.  
-
-## What this repo is
-
-- https://kleosr.surge.sh  
-- Static‑first small engineering archive  
-
-## What you can expect
-
-- Opinionated defaults for AI‑native development, with security and maintainability treated as core constraints  
-- Real‑world artifacts.
+- https://kleosr.surge.sh
+- A small, static-first engineering archive
 
 ## Work with me
 
-If you need a system built or upgraded, open an issue or reach out directly and include: scope, constraints, and any hard deadlines.  
-Clear constraints mean faster, safer software with less rework.
+If you need a system built or improved, open an issue or reach out directly. Include the scope, constraints, and any hard deadlines.
+
+Clear constraints lead to faster delivery, safer software, and less rework.
