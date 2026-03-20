@@ -1,14 +1,13 @@
-## Hey, I’m Kleosr 👋
+## Kleosr
 
 Full-stack and AI engineer. Cursor Ambassador.
 
 ## About this repo
 
-- https://kleosr.surge.sh
-- A small, static-first engineering archive
+Live site: [kleosr.surge.sh](https://kleosr.surge.sh). Small, static-first archive of engineering notes and projects.
 
 ## Work with me
 
-If you need a system built or improved, open an issue or reach out directly. Include the scope, constraints, and any hard deadlines.
+If you want something built or fixed, open an issue or write directly. Say what you need, what limits you have (stack, budget, environment), and any real deadlines.
 
-Clear constraints lead to faster delivery, safer software, and less rework.
+Tight scope and clear limits usually mean quicker shipping, fewer surprises, and less back-and-forth.
