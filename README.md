@@ -1,6 +1,6 @@
 ## Kleosr
 
-Full-stack and AI engineer. Cursor Ambassador.
+Self-Taught and AI Researcher. Cursor Ambassador.
 
 ## About this repo
 
