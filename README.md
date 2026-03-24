@@ -1,13 +1,13 @@
 ## Kleosr
 
-Self-Taught and AI Researcher. Cursor Ambassador.
+Self-taught. I mess with AI systems and write about what breaks. Cursor ambassador.
 
 ## About this repo
 
-Live site: [kleosr.surge.sh](https://kleosr.surge.sh). Small, static-first archive of engineering notes and projects.
+Live site: [kleosr.surge.sh](https://kleosr.surge.sh). Static-first dump of notes and side projects—stuff I wanted out of my head and onto a page.
 
-## Work with me
+## If you’re trying to hire me
 
-If you want something built or fixed, open an issue or write directly. Say what you need, what limits you have (stack, budget, environment), and any real deadlines.
+Issue or direct message. Say the actual outcome you need, not the vibe. Stack, budget, environment, and real deadlines matter. “ASAP” without a date is a trap for both of us.
 
-Tight scope and clear limits usually mean quicker shipping, fewer surprises, and less back-and-forth.
+I do better when the box is small. Wide briefs turn into archaeology. Tight briefs turn into shipped work.
