@@ -16,10 +16,6 @@ Three years of shipping. No CS degree. I moderate the official [Cursor](https://
 
 I write things small, measure them, and throw away whatever doesn't earn its keep.
 
-## Stack
-
-`TypeScript` · `JavaScript` · `Python` · `Node.js` · `Next.js` · `React` · `LLM fine-tuning` · `Prompt engineering`
-
 ## Projects
 
 **[cursorkleosr](https://github.com/kleosr/cursorkleosr)** — A two-file workflow kernel that gives Cursor persistent memory across sessions. 328 stars. Devs I've never met use it daily.
