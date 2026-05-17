@@ -2,7 +2,7 @@
 
 `@kleosr` · AI tooling · Full-stack · Open source
 
-Self-taught, building from Venezuela. I work on the boring layer most people skip — prompt design, agent loops, dev environment plumbing. The stuff that decides whether AI tooling actually saves time or just looks impressive.
+Self-taught, building from Venezuela. I work on the boring layer most people skip, prompt design, agent loops, dev environment plumbing. The stuff that decides whether AI tooling actually saves time or just looks impressive.
 
 [![Cursor Ambassador](https://img.shields.io/badge/Cursor-Ambassador-000?style=flat-square&logo=cursor&logoColor=white)](https://cursor.com/ambassadors)
 [![npm](https://img.shields.io/npm/dm/@kleosr/pe2-cli?style=flat-square&color=cb3837)](https://www.npmjs.com/package/@kleosr/pe2-cli)
