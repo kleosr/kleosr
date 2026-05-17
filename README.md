@@ -19,7 +19,6 @@ Three years of shipping. No CS degree. I write things small, measure them, and t
 **PE2-CLI** — Multi-provider prompt engineering (OpenAI, Anthropic, Google, Ollama).  
 1.6k weekly · [`npm →`](https://www.npmjs.com/package/@kleosr/pe2-cli)
 
-**Mythos-MoR** — Mixture-of-Recursions for agent kernels. MoE benchmarks.
 
 ---
 
