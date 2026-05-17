@@ -2,10 +2,11 @@
 
 `@kleosr` · AI tooling · Full-stack · Open source
 
-Self-taught, building from Venezuela. I work on the boring layer most people skip, prompt design, agent loops, dev environment plumbing. The stuff that decides whether AI tooling actually saves time or just looks impressive.
+Self-taught, building from Venezuela. I work on the boring layer most people skip — prompt design, agent loops, dev environment plumbing. The stuff that decides whether AI tooling actually saves time or just looks impressive.
 
 [![Cursor Ambassador](https://img.shields.io/badge/Cursor-Ambassador-000?style=flat-square&logo=cursor&logoColor=white)](https://cursor.com/ambassadors)
 [![npm](https://img.shields.io/npm/dm/@kleosr/pe2-cli?style=flat-square&color=cb3837)](https://www.npmjs.com/package/@kleosr/pe2-cli)
+[![GitHub stars](https://img.shields.io/github/stars/kleosr/cursorkleosr?style=flat-square&color=yellow)](https://github.com/kleosr/cursorkleosr)
 
 ---
 
@@ -17,11 +18,13 @@ Three years of shipping. No CS degree. I write things small, measure them, and t
 ★ 328 · [`repo →`](https://github.com/kleosr/cursorkleosr)
 
 **PE2-CLI** — Multi-provider prompt engineering (OpenAI, Anthropic, Google, Ollama).  
-1.6k weekly · [`npm →`](https://www.npmjs.com/package/@kleosr/pe2-cli)
+1.6k weekly npm · [`npm →`](https://www.npmjs.com/package/@kleosr/pe2-cli) · [`repo →`](https://github.com/kleosr/PE2-CLI)
 
+**Mythos-MoR** — Mixture-of-Recursions for agent kernels. MoE benchmarks.  
+*(research — coming soon)*
 
 ---
 
-[kleosr@proton.me](mailto:kleosr@proton.me) · [github.com/kleosr](https://github.com/kleosr)
+[kleosr@proton.me](mailto:kleosr@proton.me) · [github.com/kleosr](https://github.com/kleosr) · [npm](https://www.npmjs.com/~kleosr)
 
 If something is useful, fork it. If it's broken, open an issue.
