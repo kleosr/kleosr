@@ -17,6 +17,4 @@ I build agent tooling and publish what I measure.
 
 [@kleosrr](https://x.com/kleosrr)
 
-`f00 / p00 - 21`
-
 </div>
