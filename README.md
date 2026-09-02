@@ -5,13 +5,36 @@
 
 ### kleosr
 
-SpaceXAI Ambassador
+**SpaceXAI Ambassador**
 
-Rules load every session. Skills wait to be invoked.<br />
-I build agent tooling and publish what I measure.
+I build tools that help AI agents remember, check their work, and follow rules.<br />
+I test what works, share what I learn, and keep improving.
 
-**[cursorkleosr](https://github.com/kleosr/cursorkleosr)** — always-on agent memory · **[veredicto](https://github.com/kleosr/veredicto)** — agent-native TypeScript checker · **[cursordoctrine](https://github.com/kleosr/cursordoctrine)** — hooks with hard gates
+<br />
 
-[@kleosrr](https://x.com/kleosrr)
+<a href="https://github.com/kleosr/cursorkleosr">
+  <strong>cursorkleosr</strong>
+</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/kleosr/veredicto">
+  <strong>veredicto</strong>
+</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/kleosr/cursordoctrine">
+  <strong>cursordoctrine</strong>
+</a>
+
+<br />
+
+<sub>
+Agent memory&nbsp;&nbsp;·&nbsp;&nbsp;
+TypeScript checking&nbsp;&nbsp;·&nbsp;&nbsp;
+Reliable hooks
+</sub>
+
+<br /><br />
+
+<a href="https://x.com/kleosrr">@kleosrr</a>
 
 </div>
+
