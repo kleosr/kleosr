@@ -5,7 +5,7 @@
 
 ### kleosr
 
-Cursor Ambassador
+SpaceXAI Ambassador
 
 Rules load every session. Skills wait to be invoked.<br />
 I build agent tooling and publish what I measure.
