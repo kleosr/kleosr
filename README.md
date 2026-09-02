@@ -1,8 +1,5 @@
 <div align="center">
 
-<img src="assets/cursor-light.svg#gh-light-mode-only" width="280" alt="Cursor" />
-<img src="assets/cursor-dark.svg#gh-dark-mode-only" width="280" alt="Cursor" />
-<br />
 <img src="assets/spacexai-light.svg#gh-light-mode-only" width="240" alt="SpaceXAI" />
 <img src="assets/spacexai-dark.svg#gh-dark-mode-only" width="240" alt="SpaceXAI" />
 
