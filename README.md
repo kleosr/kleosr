@@ -12,8 +12,8 @@ I test what works, share what I learn, and keep improving.
 
 <br />
 
-<a href="https://github.com/kleosr/cursorkleosr">
-  <strong>cursorkleosr</strong>
+<a href="https://github.com/kleosr/tether">
+  <strong>tether</strong>
 </a>
 &nbsp;·&nbsp;
 <a href="https://github.com/kleosr/veredicto">
