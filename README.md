@@ -7,8 +7,24 @@
 
 **SpaceXAI Ambassador**
 
-I build tools that help AI agents remember, check their work, and follow rules.<br />
-I test what works, share what I learn, and keep improving.
+<br />
+
+<sub>prev:</sub>&nbsp;
+<img src="assets/cursor-light.svg#gh-light-mode-only" width="180" alt="Cursor" />
+<img src="assets/cursor-dark.svg#gh-dark-mode-only" width="180" alt="Cursor" />
+
+<br />
+
+I build tools for AI agents.<br />
+The tools help AI agents remember.<br />
+The tools help AI agents check their work.<br />
+The tools help AI agents obey rules.
+
+<br />
+
+I test what works.<br />
+I share what I learn.<br />
+I continue to improve.
 
 <br />
 
@@ -28,8 +44,8 @@ I test what works, share what I learn, and keep improving.
 
 <sub>
 Agent memory&nbsp;&nbsp;·&nbsp;&nbsp;
-TypeScript checking&nbsp;&nbsp;·&nbsp;&nbsp;
-Reliable hooks
+TypeScript checks&nbsp;&nbsp;·&nbsp;&nbsp;
+Hooks
 </sub>
 
 <br /><br />
